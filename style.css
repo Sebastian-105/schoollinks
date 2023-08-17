@@ -1,0 +1,84 @@
+    * {
+            background-color:  #262626;
+        }
+      .box  {
+        border: solid 3px white;
+        cursor:pointer;
+        margin:auto;
+        font-size: 25;
+        border-radius: 10px;
+        width: 400px;
+        height: 50px;
+        color:white;
+        font-weight: bold;
+        font-size: 25px;
+        padding-top:20px;
+        background-color: rgb(37, 43, 105);
+        text-align: center;
+    }
+    sup {
+        cursor:pointer;
+        color:white;
+        background-color: rgb(37, 43, 105);
+     }
+      h1{
+          color:white;
+          text-align: center;
+          font-size: 50px;
+      }
+       subtitle{
+        font-style: italic;
+          color:lightgray;
+          text-align: center;
+          font-size: 15px;
+      }
+      /* #example {
+        border: solid 3px white;
+           background-image: url('exmaple.png');
+           background-repeat: no-repeat;
+      } */
+      
+      .whatisthis {
+        float:left;
+        top:15px;
+        left:50px;
+        width:30%;
+        color:white;
+        border:solid 3px white;
+        border-radius: 5px;
+        padding:5px;
+      }
+      ::-webkit-Scrollbar {
+  width: 0px;
+  background: #262626;
+}
+
+/* ::-webkit-Scrollbar-thumb {
+  border-radius: 5px;
+  background: var(--decoration);
+  box-shadow: inset 0 0 20px var(--decoration);
+} */
+
+      
+      .whatisthis *{
+        font-size: 18px;
+        color:white;
+        line-height: 30px;
+       padding:10px;
+      }
+      .aboutme {
+        float:right;
+        top:15px;
+        right:50px;
+        width:30%;
+        color:white;
+        border:solid 3px white;
+        border-radius: 5px;
+        padding:5px;
+      }
+      .aboutme *{
+        font-size: 18px;
+        color:white;
+        line-height: 30px;
+       padding:10px;
+      }
